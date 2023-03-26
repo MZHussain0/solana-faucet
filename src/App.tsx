@@ -11,6 +11,9 @@ function App() {
         <p>Airdrop Solana to your devnet.</p>
         <Connect2Phantom />
       </header>
+      <footer>
+        <p>Made as an assignment for Harkirat Singh Web3 video</p>
+      </footer>
     </div>
   );
 }
