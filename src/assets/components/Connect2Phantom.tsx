@@ -81,6 +81,11 @@ const Connect2Phantom: FC = () => {
             Opps!!! Phantom is not available. Go get it{" "}
             <a href="https://phantom.app/">https://phantom.app/</a>.
           </p>
+          <p>
+            before moving forward make sure to Install Phantom chrome extension.
+            Create a solana wallet and change the connection from mainnet to
+            devnet.
+          </p>
         </>
       )}
     </div>
